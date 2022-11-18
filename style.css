@@ -1,25 +1,13 @@
-.college-img-container img{
-    margin-left: 10%;
-    margin-right: 10%;
-    align-items: center;
-    width: 1000px;
-    height: 300px;
+body{
+    background-color: rgb(185, 218, 255);
 }
-.about-college p{
-    text-align:justify;
-    margin: 50px;
+
+.festival-container img{
+    width: 700px;
+    height: 500px;
+
 }
-.courses-offered{
-    background-color: red;
-    color: white;
-}
-.courses-offered p{
-    text-align: justify;
-}
-.contact-us{
-    background-color: red;
-    color: white;
-}
-.address{
-    color: blue;
+.festival-container p{
+    margin-left: 200px;
+    margin-right: 200px;
 }
